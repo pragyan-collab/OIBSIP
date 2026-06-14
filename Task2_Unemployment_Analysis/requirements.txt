@@ -1,0 +1,14 @@
+# Unemployment Analysis - Project Dependencies
+# Author: Pragyan Kumar Beheruk
+# Date: 2024
+
+# Core Data Science Libraries
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Visualization Libraries
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Additional Utilities
+python-dateutil>=2.8.0
